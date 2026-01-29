@@ -42,7 +42,7 @@ Analyzing Screen Time’s Impact on Stress and Mental Health with Python (NumPy,
 
 Вы можете запустить этот ноутбук прямо в Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/Screen-Time-Stress-and-Mental-Well-being-A-Python-Analysis-NumPy-Pandas-Matplotlib/blob/main/L_02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/Screen-Time-Stress-and-Mental-Well-being-A-Python-Analysis-NumPy-Pandas-Matplotlib/blob/main/L_02_bigdata.ipynb)
 
 ## Структура
 
